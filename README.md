@@ -13,9 +13,13 @@ Cozy Cup Cafe is a web-based application designed to bring the warm, inviting at
 ## Screen Captures
 
 ![Welcome](img/Welcome.png)
+* Home Screen – This section displays the main landing page of the Cozy Cup Cafe with a light, warm and user-friendly design.
 
 ![Menu](img/Menu.png)
+* Menu Screen – This section shows the list of offered food and drinks available.
 
 ![Aboutus](img/About_Us.png)
+* About Us Screen – This section shows the story of Cozy Cup Cafe, its origin, its vision and its passion for coffee and the relaxing space it offerd.
 
 ![Contactus](img/Contact_Us.png)
+* Contact Us Screen – This section shows Cozy Cup Cafe’s contact details, a simple feature for customers to reach out and give feedbacks.
