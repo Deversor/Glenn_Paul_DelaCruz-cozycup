@@ -6,6 +6,16 @@ Cozy Cup Cafe is a web-based application designed to bring the warm, inviting at
 ## Features
 * User-friendly and cozy café-themed user interface  
 * Home section introducing the café    
-* enu section introducing our offered food and drinks 
+* Menu section introducing our offered food and drinks 
 * About Us section introducing our story 
 * Contact section for customer feedback
+
+## Screen Captures
+
+![Welcome](img/Welcome.png)
+
+![Menu](img/Menu.png)
+
+![Aboutus](img/About_Us.png)
+
+![Contactus](img/Contact_Us.png)
