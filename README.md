@@ -23,3 +23,14 @@ Cozy Cup Cafe is a web-based application designed to bring the warm, inviting at
 
 ![Contactus](img/Contact_Us.png)
 * Contact Us Screen – This section shows Cozy Cup Cafe’s contact details, a simple feature for customers to reach out and give feedbacks.
+
+## About the Authors
+
+<img src="img/Obed.png" width="150" style="border-radius: 50%;">
+
+**Name:** Obed G. De Belen
+
+**Email:** 202180184@psu.palawan.edu.palawan
+
+[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30">](https://www.facebook.com/obed.debelen.3)
+[<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30">](https://github.com/Deversor)
