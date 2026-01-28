@@ -30,7 +30,7 @@ Cozy Cup Cafe is a web-based application designed to bring the warm, inviting at
 
 **Name:** Obed G. De Belen
 
-**Email:** 202180184@psu.palawan.edu.palawan.ph
+**Email:** 202180184@psu.palawan.edu.ph
 
 [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" width="30">](https://www.facebook.com/obed.debelen.3)
 [<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" width="30">](https://github.com/Deversor)
